@@ -1,0 +1,14 @@
+$headH : 25vh;
+$bodyH : 65vh;
+$footH : 10vh;
+
+.Footer
+{
+    display: flex;
+    width : 100%;
+    height : $footH;
+    bottom : 0px;
+    position : absolute;
+    color : black;
+    background : orangered;
+}

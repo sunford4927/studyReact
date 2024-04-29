@@ -1,0 +1,18 @@
+{
+    "development"   : {
+        "username"  : "root",
+        "password"  : "12345",
+        "database"  : "profile",
+        "host"      : "127.0.0.1",
+        "dialect"   : "mysql" 
+    },
+    "postinformatio"    : 
+    {
+        "username"  : "root",
+        "password"  : null,
+        "database"  : "database_post",
+        "host"      : "127.0.0.1",
+        "dialect"   : "mysql" 
+    }
+    
+}

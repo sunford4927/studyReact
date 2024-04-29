@@ -1,0 +1,27 @@
+/* scss 변수선언 방법*/
+$headH : 25vh;
+$bodyH : 65vh;
+$footH : 10vh;
+
+
+
+.Body
+{
+    display: flex;
+    background : green;
+    flex-flow : row nowrap;
+    justify-content: space-around;
+    height : $bodyH;
+    .contents
+    {
+        width : 70%;
+        background : violet;
+    }
+    .notice
+    {
+        width : 30%;
+        background-color: blue;
+    }
+}
+
+
